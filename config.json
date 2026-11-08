@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "brand": "Nysh Client",
+  "clientVersion": "1.0.0",
+  "minecraft": "26.3",
+  "links": {
+    "vk": "https://vk.ru/club243075632",
+    "telegram": "https://t.me/+J55ZaJzNKgYwZmQy"
+  },
+  "servers": [
+    {
+      "id": "nysh-smp",
+      "name": "Nysh SMP",
+      "address": "nysh.stasyanet.ru:8100",
+      "description": "Наш дом. Выживание, легендарки и дуэли.",
+      "featured": true
+    }
+  ],
+  "news": [
+    {
+      "id": "welcome",
+      "title": "Добро пожаловать в Nysh Client",
+      "text": "Новости Nysh SMP и объявления появятся здесь. Присоединяйся к сообществу!",
+      "url": "https://vk.ru/club243075632"
+    }
+  ],
+  "update": {
+    "version": "1.0.0",
+    "notes": [
+      "Первый выпуск Nysh Client"
+    ],
+    "url": "https://github.com/vorobjewsen30-max/nysh-client-config/releases"
+  }
+}
