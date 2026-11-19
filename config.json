@@ -18,6 +18,12 @@
   ],
   "news": [
     {
+      "id": "support-1-21-11",
+      "title": "Добавлена поддержка Minecraft 1.21.11",
+      "text": "Теперь Nysh Client поддерживает Minecraft 1.21.11! Играй на серверах этой версии с любимыми функциями клиента. Для Nysh SMP по-прежнему выбирай 26.3.",
+      "url": "https://github.com/vorobjewsen30-max/nysh-client-config/releases"
+    },
+    {
       "id": "welcome",
       "title": "Добро пожаловать в Nysh Client",
       "text": "Новости Nysh SMP и объявления появятся здесь. Присоединяйся к сообществу!",
